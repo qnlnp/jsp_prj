@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<depts>
+  <result>true</result>
+  <pubDate>2025-05-28 11:24:16</pubDate>
+  <dept>
+    <deptno>10</deptno>
+    <dname>ACCOUNTING</dname>
+    <loc>NEW YORK</loc>
+  </dept>
+  <dept>
+    <deptno>20</deptno>
+    <dname>RESEARCH</dname>
+    <loc>DALLAS</loc>
+  </dept>
+  <dept>
+    <deptno>30</deptno>
+    <dname>SALES</dname>
+    <loc>CHICAGO</loc>
+  </dept>
+  <dept>
+    <deptno>40</deptno>
+    <dname>OPERATIONS</dname>
+    <loc>BOSTON</loc>
+  </dept>
+</depts>

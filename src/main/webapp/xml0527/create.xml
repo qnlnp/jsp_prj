@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <msg>msg노드의 내용</msg>
+  <today today="2025-05-27">today노드의 내용</today>
+</root>
